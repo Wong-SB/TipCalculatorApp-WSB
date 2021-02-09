@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+
         var tip = tipPercentage * cost
 
         if (binding.roundUpSwitch.isChecked){
