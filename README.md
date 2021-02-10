@@ -2,6 +2,6 @@
 
 for TARUC purposes only
 
-Practical excecise 2 - 1 done in : 27.1.2021
+Practical excecise 3 - 1/2 done in : 2.2.2021
 
 editing without permissions are strictly prohibited
